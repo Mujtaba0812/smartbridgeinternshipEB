@@ -2,7 +2,7 @@
  * GccApplication5.c
  *
  * Created: 5/10/2019 10:33:19 AM
- * Author : sreek
+ * Author : Mujtaba
  */ 
 
 #include <avr/io.h>
