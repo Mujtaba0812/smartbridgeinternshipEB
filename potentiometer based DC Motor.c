@@ -2,7 +2,7 @@
  * potentiometer based  DC motor.c
  *
  * Created: 5/15/2019 2:50:58 PM
- * Author : sreek
+ * Author : Mujtaba
  */ 
 
 #include<avr/io.h>
